@@ -1,3 +1,4 @@
+require 'consul_attache/cli'
 require 'consul_attache/version'
 
 module ConsulAttache
